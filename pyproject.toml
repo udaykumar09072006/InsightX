@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "insightx"
+version = "1.0.0"
+description = "Business Intelligence & Customer Analytics Platform using UCI Online Retail dataset"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "InsightX Analytics Team"}
+]
+keywords = ["ecommerce", "analytics", "rfm", "cohorts", "bi", "sql", "postgresql"]
+dependencies = [
+    "psycopg[binary]>=3.1.18",
+    "SQLAlchemy>=2.0.25",
+    "python-dotenv>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.4",
+    "jupyter>=1.0.0"
+]
+bi = [
+    "streamlit>=1.31.0",
+    "plotly>=5.18.0",
+    "matplotlib>=3.8.0",
+    "seaborn>=0.13.0"
+]

@@ -1,0 +1,7 @@
+{
+  "name": "InsightX — Business Intelligence & Customer Analytics Platform",
+  "description": "Production-grade e-commerce analytics, customer segmentation (RFM), cohort retention, SQL analytics, and statistical insights powered by the UCI Online Retail dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

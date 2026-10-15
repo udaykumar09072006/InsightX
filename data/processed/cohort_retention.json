@@ -1,0 +1,1167 @@
+{
+  "total_identified_customers": 4338,
+  "repeat_customers": 2845,
+  "single_purchase_customers": 1493,
+  "repeat_purchase_rate_pct": 65.58,
+  "cohorts": [
+    {
+      "cohort": "2010-12",
+      "initial_size": 885,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 885,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 324,
+          "retention_pct": 36.61,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 286,
+          "retention_pct": 32.32,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 340,
+          "retention_pct": 38.42,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 321,
+          "retention_pct": 36.27,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": 352,
+          "retention_pct": 39.77,
+          "censored": false
+        },
+        {
+          "period": 6,
+          "retained_count": 321,
+          "retention_pct": 36.27,
+          "censored": false
+        },
+        {
+          "period": 7,
+          "retained_count": 309,
+          "retention_pct": 34.92,
+          "censored": false
+        },
+        {
+          "period": 8,
+          "retained_count": 313,
+          "retention_pct": 35.37,
+          "censored": false
+        },
+        {
+          "period": 9,
+          "retained_count": 350,
+          "retention_pct": 39.55,
+          "censored": false
+        },
+        {
+          "period": 10,
+          "retained_count": 331,
+          "retention_pct": 37.4,
+          "censored": false
+        },
+        {
+          "period": 11,
+          "retained_count": 445,
+          "retention_pct": 50.28,
+          "censored": false
+        },
+        {
+          "period": 12,
+          "retained_count": 235,
+          "retention_pct": 26.55,
+          "censored": false
+        }
+      ]
+    },
+    {
+      "cohort": "2011-01",
+      "initial_size": 417,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 417,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 92,
+          "retention_pct": 22.06,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 111,
+          "retention_pct": 26.62,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 96,
+          "retention_pct": 23.02,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 134,
+          "retention_pct": 32.13,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": 120,
+          "retention_pct": 28.78,
+          "censored": false
+        },
+        {
+          "period": 6,
+          "retained_count": 103,
+          "retention_pct": 24.7,
+          "censored": false
+        },
+        {
+          "period": 7,
+          "retained_count": 101,
+          "retention_pct": 24.22,
+          "censored": false
+        },
+        {
+          "period": 8,
+          "retained_count": 125,
+          "retention_pct": 29.98,
+          "censored": false
+        },
+        {
+          "period": 9,
+          "retained_count": 136,
+          "retention_pct": 32.61,
+          "censored": false
+        },
+        {
+          "period": 10,
+          "retained_count": 152,
+          "retention_pct": 36.45,
+          "censored": false
+        },
+        {
+          "period": 11,
+          "retained_count": 49,
+          "retention_pct": 11.75,
+          "censored": false
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-02",
+      "initial_size": 380,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 380,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 71,
+          "retention_pct": 18.68,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 71,
+          "retention_pct": 18.68,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 108,
+          "retention_pct": 28.42,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 103,
+          "retention_pct": 27.11,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": 94,
+          "retention_pct": 24.74,
+          "censored": false
+        },
+        {
+          "period": 6,
+          "retained_count": 96,
+          "retention_pct": 25.26,
+          "censored": false
+        },
+        {
+          "period": 7,
+          "retained_count": 106,
+          "retention_pct": 27.89,
+          "censored": false
+        },
+        {
+          "period": 8,
+          "retained_count": 94,
+          "retention_pct": 24.74,
+          "censored": false
+        },
+        {
+          "period": 9,
+          "retained_count": 116,
+          "retention_pct": 30.53,
+          "censored": false
+        },
+        {
+          "period": 10,
+          "retained_count": 26,
+          "retention_pct": 6.84,
+          "censored": false
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-03",
+      "initial_size": 452,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 452,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 68,
+          "retention_pct": 15.04,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 114,
+          "retention_pct": 25.22,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 90,
+          "retention_pct": 19.91,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 101,
+          "retention_pct": 22.35,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": 76,
+          "retention_pct": 16.81,
+          "censored": false
+        },
+        {
+          "period": 6,
+          "retained_count": 121,
+          "retention_pct": 26.77,
+          "censored": false
+        },
+        {
+          "period": 7,
+          "retained_count": 104,
+          "retention_pct": 23.01,
+          "censored": false
+        },
+        {
+          "period": 8,
+          "retained_count": 126,
+          "retention_pct": 27.88,
+          "censored": false
+        },
+        {
+          "period": 9,
+          "retained_count": 39,
+          "retention_pct": 8.63,
+          "censored": false
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-04",
+      "initial_size": 300,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 300,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 64,
+          "retention_pct": 21.33,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 61,
+          "retention_pct": 20.33,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 63,
+          "retention_pct": 21.0,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 59,
+          "retention_pct": 19.67,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": 68,
+          "retention_pct": 22.67,
+          "censored": false
+        },
+        {
+          "period": 6,
+          "retained_count": 65,
+          "retention_pct": 21.67,
+          "censored": false
+        },
+        {
+          "period": 7,
+          "retained_count": 78,
+          "retention_pct": 26.0,
+          "censored": false
+        },
+        {
+          "period": 8,
+          "retained_count": 22,
+          "retention_pct": 7.33,
+          "censored": false
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-05",
+      "initial_size": 284,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 284,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 54,
+          "retention_pct": 19.01,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 49,
+          "retention_pct": 17.25,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 49,
+          "retention_pct": 17.25,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 59,
+          "retention_pct": 20.77,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": 66,
+          "retention_pct": 23.24,
+          "censored": false
+        },
+        {
+          "period": 6,
+          "retained_count": 75,
+          "retention_pct": 26.41,
+          "censored": false
+        },
+        {
+          "period": 7,
+          "retained_count": 27,
+          "retention_pct": 9.51,
+          "censored": false
+        },
+        {
+          "period": 8,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-06",
+      "initial_size": 242,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 242,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 42,
+          "retention_pct": 17.36,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 38,
+          "retention_pct": 15.7,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 64,
+          "retention_pct": 26.45,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 56,
+          "retention_pct": 23.14,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": 81,
+          "retention_pct": 33.47,
+          "censored": false
+        },
+        {
+          "period": 6,
+          "retained_count": 23,
+          "retention_pct": 9.5,
+          "censored": false
+        },
+        {
+          "period": 7,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 8,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-07",
+      "initial_size": 188,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 188,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 34,
+          "retention_pct": 18.09,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 39,
+          "retention_pct": 20.74,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 42,
+          "retention_pct": 22.34,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 51,
+          "retention_pct": 27.13,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": 21,
+          "retention_pct": 11.17,
+          "censored": false
+        },
+        {
+          "period": 6,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 7,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 8,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-08",
+      "initial_size": 169,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 169,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 35,
+          "retention_pct": 20.71,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 42,
+          "retention_pct": 24.85,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 41,
+          "retention_pct": 24.26,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": 21,
+          "retention_pct": 12.43,
+          "censored": false
+        },
+        {
+          "period": 5,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 6,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 7,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 8,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-09",
+      "initial_size": 299,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 299,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 70,
+          "retention_pct": 23.41,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 90,
+          "retention_pct": 30.1,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": 34,
+          "retention_pct": 11.37,
+          "censored": false
+        },
+        {
+          "period": 4,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 5,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 6,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 7,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 8,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-10",
+      "initial_size": 358,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 358,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 86,
+          "retention_pct": 24.02,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": 41,
+          "retention_pct": 11.45,
+          "censored": false
+        },
+        {
+          "period": 3,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 4,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 5,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 6,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 7,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 8,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-11",
+      "initial_size": 323,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 323,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": 36,
+          "retention_pct": 11.15,
+          "censored": false
+        },
+        {
+          "period": 2,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 3,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 4,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 5,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 6,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 7,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 8,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    },
+    {
+      "cohort": "2011-12",
+      "initial_size": 41,
+      "periods": [
+        {
+          "period": 0,
+          "retained_count": 41,
+          "retention_pct": 100.0,
+          "censored": false
+        },
+        {
+          "period": 1,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 2,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 3,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 4,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 5,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 6,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 7,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 8,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 9,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 10,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 11,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        },
+        {
+          "period": 12,
+          "retained_count": null,
+          "retention_pct": null,
+          "censored": true
+        }
+      ]
+    }
+  ],
+  "period_averages": [
+    {
+      "period": 0,
+      "avg_retention_pct": 100.0,
+      "cohort_count": 13
+    },
+    {
+      "period": 1,
+      "avg_retention_pct": 20.62,
+      "cohort_count": 12
+    },
+    {
+      "period": 2,
+      "avg_retention_pct": 22.11,
+      "cohort_count": 11
+    },
+    {
+      "period": 3,
+      "avg_retention_pct": 23.24,
+      "cohort_count": 10
+    },
+    {
+      "period": 4,
+      "avg_retention_pct": 24.56,
+      "cohort_count": 9
+    },
+    {
+      "period": 5,
+      "avg_retention_pct": 25.08,
+      "cohort_count": 8
+    },
+    {
+      "period": 6,
+      "avg_retention_pct": 24.37,
+      "cohort_count": 7
+    },
+    {
+      "period": 7,
+      "avg_retention_pct": 24.26,
+      "cohort_count": 6
+    },
+    {
+      "period": 8,
+      "avg_retention_pct": 25.06,
+      "cohort_count": 5
+    },
+    {
+      "period": 9,
+      "avg_retention_pct": 27.83,
+      "cohort_count": 4
+    },
+    {
+      "period": 10,
+      "avg_retention_pct": 26.9,
+      "cohort_count": 3
+    },
+    {
+      "period": 11,
+      "avg_retention_pct": 31.02,
+      "cohort_count": 2
+    },
+    {
+      "period": 12,
+      "avg_retention_pct": 26.55,
+      "cohort_count": 1
+    }
+  ]
+}

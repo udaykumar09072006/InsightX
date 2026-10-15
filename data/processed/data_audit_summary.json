@@ -1,0 +1,19 @@
+{
+  "total_raw_rows": 541909,
+  "exact_duplicates_removed": 5268,
+  "cancellations_count": 9251,
+  "negative_quantity_non_cancellations": 1336,
+  "zero_or_negative_unit_price": 2512,
+  "missing_customer_id": 135037,
+  "missing_description": 1454,
+  "valid_completed_transactions": 524878,
+  "total_gross_revenue": 10642110.8,
+  "total_cancellation_value": 893979.73,
+  "net_revenue": 9748131.07,
+  "start_date": "2010-12-01",
+  "end_date": "2011-12-09",
+  "countries_count": 38,
+  "unique_products_count": 4070,
+  "unique_customers_count": 4372,
+  "unique_invoices_count": 25900
+}

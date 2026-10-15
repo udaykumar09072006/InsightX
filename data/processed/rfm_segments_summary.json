@@ -1,0 +1,87 @@
+{
+  "reference_date": "2011-12-10",
+  "total_customers": 4372,
+  "total_revenue": 8278519.42,
+  "segments": [
+    {
+      "segment": "Champions",
+      "customer_count": 977,
+      "customer_pct": 22.35,
+      "total_revenue": 5645167.34,
+      "revenue_pct": 68.19,
+      "avg_recency_days": 12.4,
+      "avg_frequency_orders": 11.0,
+      "avg_monetary_spend": 5778.06
+    },
+    {
+      "segment": "Loyal Customers",
+      "customer_count": 1025,
+      "customer_pct": 23.44,
+      "total_revenue": 1247433.97,
+      "revenue_pct": 15.07,
+      "avg_recency_days": 33.0,
+      "avg_frequency_orders": 3.6,
+      "avg_monetary_spend": 1217.01
+    },
+    {
+      "segment": "At Risk",
+      "customer_count": 621,
+      "customer_pct": 14.2,
+      "total_revenue": 742259.06,
+      "revenue_pct": 8.97,
+      "avg_recency_days": 138.5,
+      "avg_frequency_orders": 3.5,
+      "avg_monetary_spend": 1195.26
+    },
+    {
+      "segment": "Hibernating",
+      "customer_count": 726,
+      "customer_pct": 16.61,
+      "total_revenue": 229173.93,
+      "revenue_pct": 2.77,
+      "avg_recency_days": 278.8,
+      "avg_frequency_orders": 1.1,
+      "avg_monetary_spend": 315.67
+    },
+    {
+      "segment": "About to Sleep",
+      "customer_count": 401,
+      "customer_pct": 9.17,
+      "total_revenue": 174797.48,
+      "revenue_pct": 2.11,
+      "avg_recency_days": 119.4,
+      "avg_frequency_orders": 1.1,
+      "avg_monetary_spend": 435.9
+    },
+    {
+      "segment": "Potential Loyalists",
+      "customer_count": 284,
+      "customer_pct": 6.5,
+      "total_revenue": 107898.94,
+      "revenue_pct": 1.3,
+      "avg_recency_days": 17.7,
+      "avg_frequency_orders": 1.2,
+      "avg_monetary_spend": 379.93
+    },
+    {
+      "segment": "Customers Needing Attention",
+      "customer_count": 81,
+      "customer_pct": 1.85,
+      "total_revenue": 71490.54,
+      "revenue_pct": 0.86,
+      "avg_recency_days": 49.5,
+      "avg_frequency_orders": 1.2,
+      "avg_monetary_spend": 882.6
+    },
+    {
+      "segment": "Promising",
+      "customer_count": 257,
+      "customer_pct": 5.88,
+      "total_revenue": 60298.16,
+      "revenue_pct": 0.73,
+      "avg_recency_days": 52.3,
+      "avg_frequency_orders": 1.1,
+      "avg_monetary_spend": 234.62
+    }
+  ]
+}

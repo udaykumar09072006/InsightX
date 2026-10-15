@@ -1,0 +1,436 @@
+{
+  "total_gross_revenue": 10642110.8,
+  "total_cancellation_value": 893979.73,
+  "net_revenue": 9748131.07,
+  "total_orders": 19960,
+  "total_units_sold": 5572420,
+  "unique_identified_customers": 4338,
+  "average_order_value": 533.17,
+  "total_products": 3922,
+  "total_countries": 38,
+  "start_date": "2010-12-01",
+  "end_date": "2011-12-09",
+  "pareto_summary": {
+    "top_20_pct_products_share": 79.47,
+    "top_10_pct_customers_share": 61.41,
+    "gini_coefficient": 0.7158
+  },
+  "statistical_tests": {
+    "uk_vs_international_aov": {
+      "name": "Welch's Two-Sample t-test: UK vs International Average Order Value",
+      "hypothesis_null": "Average Order Value in United Kingdom is identical to International destinations (mu_UK = mu_Intl).",
+      "hypothesis_alt": "Average Order Value differs between United Kingdom and International destinations (mu_UK != mu_Intl).",
+      "results": {
+        "n1": 18019,
+        "n2": 1941,
+        "mean1": 499.57,
+        "mean2": 845.11,
+        "std1": 1781.52,
+        "std2": 1739.82,
+        "t_statistic": -8.2942,
+        "degrees_of_freedom": 2399.7,
+        "p_value": 1.0931477768876609e-16,
+        "p_value_formatted": "< 0.0001",
+        "is_significant_alpha_0_05": true,
+        "cohens_d": -0.1944,
+        "mean_difference": -345.54,
+        "ci_95_lower": -427.2,
+        "ci_95_upper": -263.89
+      }
+    },
+    "customer_inequality": {
+      "name": "Gini Coefficient of Customer Revenue Distribution",
+      "gini_coefficient": 0.7158,
+      "interpretation": "A Gini index of 0.7158 denotes high revenue inequality; the top 10% of customers account for 61.41% of all identified sales."
+    }
+  },
+  "monthly_trends": [
+    {
+      "month": "2010-12",
+      "gross_revenue": 821452.73,
+      "net_revenue": 746723.61,
+      "cancellations_value": 74729.12,
+      "orders": 1559,
+      "active_customers": 885,
+      "items_sold": 358019,
+      "average_order_value": 526.91,
+      "mom_growth_pct": null
+    },
+    {
+      "month": "2011-01",
+      "gross_revenue": 689811.61,
+      "net_revenue": 558448.56,
+      "cancellations_value": 131363.05,
+      "orders": 1086,
+      "active_customers": 741,
+      "items_sold": 387099,
+      "average_order_value": 635.19,
+      "mom_growth_pct": -16.03
+    },
+    {
+      "month": "2011-02",
+      "gross_revenue": 522545.56,
+      "net_revenue": 497026.41,
+      "cancellations_value": 25519.15,
+      "orders": 1100,
+      "active_customers": 758,
+      "items_sold": 282934,
+      "average_order_value": 475.04,
+      "mom_growth_pct": -24.25
+    },
+    {
+      "month": "2011-03",
+      "gross_revenue": 716215.26,
+      "net_revenue": 682013.98,
+      "cancellations_value": 34201.28,
+      "orders": 1454,
+      "active_customers": 974,
+      "items_sold": 376599,
+      "average_order_value": 492.58,
+      "mom_growth_pct": 37.06
+    },
+    {
+      "month": "2011-04",
+      "gross_revenue": 536968.49,
+      "net_revenue": 492367.84,
+      "cancellations_value": 44600.65,
+      "orders": 1246,
+      "active_customers": 856,
+      "items_sold": 307953,
+      "average_order_value": 430.95,
+      "mom_growth_pct": -25.03
+    },
+    {
+      "month": "2011-05",
+      "gross_revenue": 769296.61,
+      "net_revenue": 722094.1,
+      "cancellations_value": 47202.51,
+      "orders": 1681,
+      "active_customers": 1056,
+      "items_sold": 395001,
+      "average_order_value": 457.64,
+      "mom_growth_pct": 43.27
+    },
+    {
+      "month": "2011-06",
+      "gross_revenue": 760547.01,
+      "net_revenue": 689977.23,
+      "cancellations_value": 70569.78,
+      "orders": 1533,
+      "active_customers": 991,
+      "items_sold": 388511,
+      "average_order_value": 496.12,
+      "mom_growth_pct": -1.14
+    },
+    {
+      "month": "2011-07",
+      "gross_revenue": 718076.12,
+      "net_revenue": 680156.99,
+      "cancellations_value": 37919.13,
+      "orders": 1475,
+      "active_customers": 949,
+      "items_sold": 399693,
+      "average_order_value": 486.83,
+      "mom_growth_pct": -5.58
+    },
+    {
+      "month": "2011-08",
+      "gross_revenue": 757841.38,
+      "net_revenue": 703510.58,
+      "cancellations_value": 54330.8,
+      "orders": 1361,
+      "active_customers": 935,
+      "items_sold": 421020,
+      "average_order_value": 556.83,
+      "mom_growth_pct": 5.54
+    },
+    {
+      "month": "2011-09",
+      "gross_revenue": 1056435.19,
+      "net_revenue": 1017596.68,
+      "cancellations_value": 38838.51,
+      "orders": 1837,
+      "active_customers": 1266,
+      "items_sold": 569573,
+      "average_order_value": 575.09,
+      "mom_growth_pct": 39.4
+    },
+    {
+      "month": "2011-10",
+      "gross_revenue": 1151263.73,
+      "net_revenue": 1069368.23,
+      "cancellations_value": 81895.5,
+      "orders": 2040,
+      "active_customers": 1364,
+      "items_sold": 621029,
+      "average_order_value": 564.34,
+      "mom_growth_pct": 8.98
+    },
+    {
+      "month": "2011-11",
+      "gross_revenue": 1503866.78,
+      "net_revenue": 1456145.8,
+      "cancellations_value": 47720.98,
+      "orders": 2769,
+      "active_customers": 1664,
+      "items_sold": 751377,
+      "average_order_value": 543.11,
+      "mom_growth_pct": 30.63
+    },
+    {
+      "month": "2011-12",
+      "gross_revenue": 637790.33,
+      "net_revenue": 432701.06,
+      "cancellations_value": 205089.27,
+      "orders": 819,
+      "active_customers": 615,
+      "items_sold": 313612,
+      "average_order_value": 778.74,
+      "mom_growth_pct": -57.59
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "United Kingdom",
+      "revenue": 9001744.09,
+      "revenue_share_pct": 84.59,
+      "orders": 18019,
+      "aov": 499.57,
+      "unique_customers": 3920,
+      "units_sold": 4646906
+    },
+    {
+      "country": "Netherlands",
+      "revenue": 285446.34,
+      "revenue_share_pct": 2.68,
+      "orders": 94,
+      "aov": 3036.66,
+      "unique_customers": 9,
+      "units_sold": 200361
+    },
+    {
+      "country": "EIRE",
+      "revenue": 283140.52,
+      "revenue_share_pct": 2.66,
+      "orders": 288,
+      "aov": 983.13,
+      "unique_customers": 3,
+      "units_sold": 147007
+    },
+    {
+      "country": "Germany",
+      "revenue": 228678.4,
+      "revenue_share_pct": 2.15,
+      "orders": 457,
+      "aov": 500.39,
+      "unique_customers": 94,
+      "units_sold": 119154
+    },
+    {
+      "country": "France",
+      "revenue": 209625.37,
+      "revenue_share_pct": 1.97,
+      "orders": 392,
+      "aov": 534.76,
+      "unique_customers": 87,
+      "units_sold": 112060
+    },
+    {
+      "country": "Australia",
+      "revenue": 138453.81,
+      "revenue_share_pct": 1.3,
+      "orders": 57,
+      "aov": 2429.01,
+      "unique_customers": 9,
+      "units_sold": 83891
+    },
+    {
+      "country": "Spain",
+      "revenue": 61558.56,
+      "revenue_share_pct": 0.58,
+      "orders": 90,
+      "aov": 683.98,
+      "unique_customers": 30,
+      "units_sold": 27933
+    },
+    {
+      "country": "Switzerland",
+      "revenue": 57067.6,
+      "revenue_share_pct": 0.54,
+      "orders": 54,
+      "aov": 1056.81,
+      "unique_customers": 21,
+      "units_sold": 30617
+    },
+    {
+      "country": "Belgium",
+      "revenue": 41196.34,
+      "revenue_share_pct": 0.39,
+      "orders": 98,
+      "aov": 420.37,
+      "unique_customers": 25,
+      "units_sold": 23237
+    },
+    {
+      "country": "Sweden",
+      "revenue": 38367.83,
+      "revenue_share_pct": 0.36,
+      "orders": 36,
+      "aov": 1065.77,
+      "unique_customers": 8,
+      "units_sold": 36078
+    }
+  ],
+  "top_products": [
+    {
+      "rank": 1,
+      "stock_code": "DOT",
+      "description": "DOTCOM POSTAGE",
+      "revenue": 206248.77,
+      "quantity": 706,
+      "orders_count": 706,
+      "revenue_share_pct": 1.938,
+      "cumulative_share_pct": 1.94
+    },
+    {
+      "rank": 2,
+      "stock_code": "22423",
+      "description": "REGENCY CAKESTAND 3 TIER",
+      "revenue": 174156.54,
+      "quantity": 13851,
+      "orders_count": 1988,
+      "revenue_share_pct": 1.6365,
+      "cumulative_share_pct": 3.57
+    },
+    {
+      "rank": 3,
+      "stock_code": "23843",
+      "description": "PAPER CRAFT , LITTLE BIRDIE",
+      "revenue": 168469.6,
+      "quantity": 80995,
+      "orders_count": 1,
+      "revenue_share_pct": 1.583,
+      "cumulative_share_pct": 5.16
+    },
+    {
+      "rank": 4,
+      "stock_code": "85123A",
+      "description": "CREAM HANGING HEART T-LIGHT HOLDER",
+      "revenue": 104462.75,
+      "quantity": 37641,
+      "orders_count": 2198,
+      "revenue_share_pct": 0.9816,
+      "cumulative_share_pct": 6.14
+    },
+    {
+      "rank": 5,
+      "stock_code": "47566",
+      "description": "PARTY BUNTING",
+      "revenue": 99445.23,
+      "quantity": 18283,
+      "orders_count": 1685,
+      "revenue_share_pct": 0.9345,
+      "cumulative_share_pct": 7.07
+    },
+    {
+      "rank": 6,
+      "stock_code": "85099B",
+      "description": "JUMBO BAG RED RETROSPOT",
+      "revenue": 94159.81,
+      "quantity": 48371,
+      "orders_count": 2089,
+      "revenue_share_pct": 0.8848,
+      "cumulative_share_pct": 7.96
+    },
+    {
+      "rank": 7,
+      "stock_code": "23166",
+      "description": "MEDIUM CERAMIC TOP STORAGE JAR",
+      "revenue": 81700.92,
+      "quantity": 78033,
+      "orders_count": 247,
+      "revenue_share_pct": 0.7677,
+      "cumulative_share_pct": 8.73
+    },
+    {
+      "rank": 8,
+      "stock_code": "POST",
+      "description": "POSTAGE",
+      "revenue": 78101.88,
+      "quantity": 3150,
+      "orders_count": 1126,
+      "revenue_share_pct": 0.7339,
+      "cumulative_share_pct": 9.46
+    },
+    {
+      "rank": 9,
+      "stock_code": "M",
+      "description": "Manual",
+      "revenue": 77750.27,
+      "quantity": 6984,
+      "orders_count": 289,
+      "revenue_share_pct": 0.7306,
+      "cumulative_share_pct": 10.19
+    },
+    {
+      "rank": 10,
+      "stock_code": "23084",
+      "description": "RABBIT NIGHT LIGHT",
+      "revenue": 66870.03,
+      "quantity": 30739,
+      "orders_count": 994,
+      "revenue_share_pct": 0.6284,
+      "cumulative_share_pct": 10.82
+    },
+    {
+      "rank": 11,
+      "stock_code": "22086",
+      "description": "PAPER CHAIN KIT 50'S CHRISTMAS",
+      "revenue": 64875.59,
+      "quantity": 19329,
+      "orders_count": 1160,
+      "revenue_share_pct": 0.6096,
+      "cumulative_share_pct": 11.43
+    },
+    {
+      "rank": 12,
+      "stock_code": "84879",
+      "description": "ASSORTED COLOUR BIRD ORNAMENT",
+      "revenue": 58927.62,
+      "quantity": 36362,
+      "orders_count": 1455,
+      "revenue_share_pct": 0.5537,
+      "cumulative_share_pct": 11.98
+    },
+    {
+      "rank": 13,
+      "stock_code": "79321",
+      "description": "CHILLI LIGHTS",
+      "revenue": 54096.36,
+      "quantity": 10302,
+      "orders_count": 661,
+      "revenue_share_pct": 0.5083,
+      "cumulative_share_pct": 12.49
+    },
+    {
+      "rank": 14,
+      "stock_code": "22502",
+      "description": "PICNIC BASKET WICKER SMALL",
+      "revenue": 51408.77,
+      "quantity": 1937,
+      "orders_count": 463,
+      "revenue_share_pct": 0.4831,
+      "cumulative_share_pct": 12.97
+    },
+    {
+      "rank": 15,
+      "stock_code": "22197",
+      "description": "POPCORN HOLDER",
+      "revenue": 51334.47,
+      "quantity": 56898,
+      "orders_count": 1392,
+      "revenue_share_pct": 0.4824,
+      "cumulative_share_pct": 13.46
+    }
+  ]
+}

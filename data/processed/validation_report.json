@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "Mandatory Fields Check",
+      "description": "InvoiceNo, StockCode, and InvoiceDate must never be null in cleaned data",
+      "passed": true,
+      "details": "Missing Invoice: 0, Missing Stock: 0, Missing Date: 0"
+    },
+    {
+      "name": "Date Range Check",
+      "description": "Dates must span 2010-12-01 through 2011-12-09",
+      "passed": true,
+      "details": "Earliest: 2010-12-01, Latest: 2011-12-09"
+    },
+    {
+      "name": "Transaction Status Classification",
+      "description": "Rows partitioned into COMPLETED, CANCELLED, or ADJUSTMENT without unclassified rows",
+      "passed": true,
+      "details": "Total: 536641 (Completed: 524878, Cancelled: 9251, Adjustment: 2512)"
+    },
+    {
+      "name": "Revenue Sanity Check",
+      "description": "Total gross revenue from completed orders must be strictly positive",
+      "passed": true,
+      "details": "Gross Revenue: $10,642,110.80"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "total_rows": 536641,
+    "completed_count": 524878,
+    "cancelled_count": 9251,
+    "adjustment_count": 2512,
+    "guest_rows": 135037,
+    "gross_revenue": 10642110.8,
+    "min_date": "2010-12-01",
+    "max_date": "2011-12-09",
+    "all_checks_passed": true
+  }
+}
