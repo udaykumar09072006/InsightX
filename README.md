@@ -7,7 +7,15 @@
 [![Tests: 18 Passed](https://img.shields.io/badge/Tests-18%2F18%20Passing-brightgreen.svg)](tests/)
 [![React: 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Tailwind-61DAFB.svg)](src/)
 
-**InsightX** is a production-grade, AI-powered business intelligence and customer analytics platform built on the public [UCI Machine Learning Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail) (541,909 transactions, 2010-12-01 to 2011-12-09).
+
+# [Project Name]
+
+A web application built to [describe the main problem your project solves] with a focus on usability, performance, and a responsive user experience.
+
+## 🚀 Live Demo
+
+**Live Application:** https://ais-dev-5n5t4ytpuk56mzozqecigv-941486271451.asia-east1.run.app/
+
 
 InsightX features an **AI Analytics Copilot** that bridges natural-language business questions with verified SQL execution, relational Star Schema modeling, Recency-Frequency-Monetary (RFM) customer segmentation, longitudinal cohort retention analysis, and defense-in-depth security.
 
